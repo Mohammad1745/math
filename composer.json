@@ -1,0 +1,17 @@
+{
+    "name": "ali/math",
+    "description": "Math",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Ali\\Math\\": "src/Ali/Math"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammad1745",
+            "email": "mdali2016.227@gmail.com"
+        }
+    ],
+    "require": {}
+}
