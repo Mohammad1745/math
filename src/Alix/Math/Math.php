@@ -1,6 +1,6 @@
 <?php
 
-namespace Ali\Math;
+namespace Alix\Math;
 
 class Math
 {
